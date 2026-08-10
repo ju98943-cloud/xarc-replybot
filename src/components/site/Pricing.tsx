@@ -49,7 +49,7 @@ export function Pricing() {
               <InfinityIcon className="h-3.5 w-3.5" /> lifetime license
             </div>
             <div className="mt-5 flex items-end gap-2">
-              <span className="text-5xl font-extrabold tracking-tight text-primary sm:text-6xl">$10</span>
+              <span className="text-5xl font-extrabold tracking-tight text-primary sm:text-6xl">$15</span>
               <span className="mb-2 text-xs tracking-widest text-muted-foreground uppercase">
                 one-time
               </span>
