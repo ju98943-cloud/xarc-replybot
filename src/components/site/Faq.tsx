@@ -8,7 +8,7 @@ import {
 
 const faqs = [
   {
-    q: "What exactly does the $10 buy?",
+    q: "What exactly does the $15 buy?",
     a: "A lifetime XARC license key bound to your device. It unlocks all five agents, every AI provider and all future updates. There is no subscription and no renewal.",
   },
   {
