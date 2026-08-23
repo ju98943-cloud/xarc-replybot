@@ -44,7 +44,7 @@ const agents = [
 const stats = [
   { k: "6", v: "AI providers" },
   { k: "24/7", v: "always-on agents" },
-  { k: "4,000", v: "credits per $1" },
+  { k: "3,500", v: "credits per $1" },
 ];
 
 function AgentShowcase() {
