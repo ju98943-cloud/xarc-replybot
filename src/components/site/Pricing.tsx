@@ -10,8 +10,8 @@ const includes = [
 
 const packs = [
   { usd: 1, credits: 3500, label: "Starter" },
-  { usd: 5, credits: 19000, label: "Runner", popular: true },
-  { usd: 20, credits: 80000, label: "Operator" },
+  { usd: 5, credits: 17500, label: "Runner", popular: true },
+  { usd: 20, credits: 70000, label: "Operator" },
 ];
 
 export function Pricing() {
