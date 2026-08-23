@@ -9,8 +9,8 @@ const includes = [
 ];
 
 const packs = [
-  { usd: 1, credits: 4000, label: "Starter" },
-  { usd: 5, credits: 20000, label: "Runner", popular: true },
+  { usd: 1, credits: 3500, label: "Starter" },
+  { usd: 5, credits: 19000, label: "Runner", popular: true },
   { usd: 20, credits: 80000, label: "Operator" },
 ];
 
